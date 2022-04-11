@@ -27,4 +27,8 @@ hello git!
 hello guigu   master test branch! master 2
 hello git!
 
-hello guigu
+<<<<<<< HEAD
+hello master with merge
+=======
+hello guigu     hot fix test branch version 2.0
+>>>>>>> hot-fix
