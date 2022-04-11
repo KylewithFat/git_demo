@@ -24,7 +24,7 @@ hello git!
 hello guigu
 hello git!
 
-hello guigu
+hello guigu   master test branch!
 hello git!
 
 hello guigu
