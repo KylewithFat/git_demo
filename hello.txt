@@ -28,3 +28,4 @@ hello guigu   master test branch! master 2
 hello git!
 
 hello master with merge  master test version 3.0
+hello guigu     hot fix test branch version 3.0
